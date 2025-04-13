@@ -6,7 +6,7 @@ This repository contains supplementary materials related to a specific manuscrip
 
 ### 1. Anonymized Dataset Samples
 
-We provide 10% samples from each of two datasets. These samples have been carefully anonymized to remove sensitive information, offering a secure and representative subset for analysis.
+We provide 10% samples from each of two datasets. These samples have been carefully anonymized to remove sensitive information, offering a secure and representative subset for analysis.  Samples with the suffix _1 are formed by resampling after truncating the dataset.
 
 ### 2. Username Anonymization Code
 
